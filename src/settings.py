@@ -20,7 +20,7 @@ RELEASE_YEAR: int = 2023
 HOMEPAGE_URL: str = "https://universe.roboflow.com/cattledetector/cattle-j1qzu"
 # e.g. "https://some.com/dataset/homepage"
 
-PREVIEW_IMAGE_ID: int = 638774
+PREVIEW_IMAGE_ID: int = 638263
 # This should be filled AFTER uploading images to instance, just ID of any image.
 
 GITHUB_URL: str = "https://github.com/dataset-ninja/cattle-j1qzu"
