@@ -1,6 +1,6 @@
 Dataset **Cattle (j1qzu)** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/a/x/ix/r0h6kATPkuwQjwj9N0YbNvK1Xsfk6JQHAX6e1XXkITiPK2K0vcEcfEaQVY29HL1KbEb6NLKvLRvbBiEphhyGvOlxZeIGkKWn7ZbdvIxLzZkhHN0W3R0qf6SbENOK.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/l/Q/Xe/UC6Uz2G0OQ1T1Wr0zoa3NCXVQbhUumUxyB7Uxilf8A1rj2FCUWZABwtJ3nZkDnyFqWv9I31AFBBfXibQQboQtjVosa4zjgidBb3gOMWe6MlNotcu2IM8nQMSKZsZ.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
